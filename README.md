@@ -1,6 +1,6 @@
 # flowercloud机场官网地址
 
-最新地址：[flowercloud.net](https://flowercloud.net/aff.php?aff=11567)
+最新地址：[flowercloud.net](https://api-flowercloud.com/aff.php?aff=11567)
 
 ## flowercloud简介
 
